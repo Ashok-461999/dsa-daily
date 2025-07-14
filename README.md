@@ -8,5 +8,9 @@
 
 \- ✅ threeSumClosest - Medium - Two Pointer - Optimized
 
+\## 📆 July 14, 2025  
+
+\- ✅ Valid Anagram - Easy- Array Frequency - Optimized
+
 
 
